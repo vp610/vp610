@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaidik Patel.</h1>
 <h3 align="center">A passionate software engineer from Toronto, Canada.</h3>
 
-- 🔭 I’m currently working on **machine learning project which aims to develop a movie and shows recommender**
+- 🔭 I’m currently working on **machine learning project which aims to develop a model which recommends movie as well as shows based on the users past preferences**
 
 - 🌱 I’m currently learning **machine learning using IBM's Deep learning course.**
 
