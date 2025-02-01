@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vp610](https://github.com/vp610)
 
-- 💬 Ask me about **react, python, c, and java.**
+- 💬 Ask me about **Python, TypeScript, C, Java, and SQL.**
 
 - 📫 How to reach me **vaidik.patel@mail.utoronto.ca**
 
