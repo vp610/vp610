@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Vaidik Patel.</h1>
 <h3 align="center">A passionate software engineer from Toronto, Canada.</h3>
 
@@ -5,7 +8,7 @@
 
 - 🔭 I’m currently working on **machine learning project which aims to develop a model which recommends movie as well as shows based on the users past preferences**
 
-- 🌱 I’m currently learning **machine learning using IBM's Deep learning course.**
+- 🌱 I’m currently learning **Deep Learning using MIT's Deep learning course.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vp610](https://github.com/vp610)
 
